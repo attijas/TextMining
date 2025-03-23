@@ -1,0 +1,7 @@
+click==8.1.8
+colorama==0.4.6
+joblib==1.4.2
+morfeusz2 @ http://download.sgjp.pl/morfeusz/20250316/Windows/64/morfeusz2-1.99.10-20250316-cp311-cp311-win_amd64.whl#sha256=f25cc9ba10945516d69297c7decab419acf38f81a1ba4db5938d40b7cea25905
+nltk==3.9.1
+regex==2024.11.6
+tqdm==4.67.1
